@@ -126,6 +126,26 @@ All dependencies are defined in the environment configuration file:
 
 ---
 
+## Test Datasets
+
+The full set of **flight recordings**, including:
+- downward- and forward-facing camera videos,
+- and the corresponding **sensor logs** (GPS, IMU, attitude data),
+
+is available at the following link:
+
+**Dataset Download:**  
+https://mega.nz/folder/UGJjwSSb#tyM8nbsu6u7jMXnnS7bI3Q
+
+These datasets are used for:
+- optical flow evaluation,  
+- motion estimation benchmarking,  
+- and comparison against ground-truth flight measurements.
+
+All test sequences referenced in this project are included in this archive.
+
+---
+
 ## Usage
 
 1. **Camera Calibration**  
